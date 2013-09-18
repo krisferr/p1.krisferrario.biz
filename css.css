@@ -1,0 +1,18 @@
+@charset "utf-8";
+/* CSS Document */
+
+   
+body {
+	background-image: url('bg.png');
+	color: #ead872;
+	font-size: 125%; /* Base font size: 14px */
+	font-family: 'Trebuchet MS', Trebuchet, 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+	line-height: 1.429;
+	margin: 0;
+	padding: 0;
+	text-align: left;
+	}
+		
+
+
+
