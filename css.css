@@ -22,6 +22,11 @@ div {
 	margin: 0 auto 1em auto;
 }
 
+figure {
+	
+	float: left;
+}
+
 .box {
 	background-color: #C64208;
 	color: #FFF;
