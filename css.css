@@ -3,8 +3,7 @@
 
    
 body {
-	background-image: url('bg.png');
-	color: #ead872;
+	background-image: url('bg.png');;
 	font-size: 125%; /* Base font size: 14px */
 	font-family: 'Trebuchet MS', Trebuchet, 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 	line-height: 1.429;
@@ -12,7 +11,24 @@ body {
 	padding: 0;
 	text-align: left;
 	}
-		
+	
+div {
+	border: 2px #C64208 solid;
+	background-color:#000;
+	color:#FFF;
+	padding: 0.4em;
+	width: 20em;
+	text-align:center;
+	margin: 0 auto 1em auto;
+}
+
+.box {
+	background-color: #C64208;
+	color: #FFF;
+	height: auto;
+	margin: 0;
+	float: right;
+}	
 
 
 
